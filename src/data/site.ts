@@ -7,7 +7,7 @@ export const siteConfig = {
     phoneDisplay: "+254 728 038 474",
     phoneRaw: "+254728038474",
     whatsapp: "254728038474",
-    email: "info@farmsteadpoultry.com",
+    email: "sales@farmsteadpoultry.com",
     location: "Opposite Koru Mission Hospital, Muhoroni Sub-County, Kisumu",
     keywords: [
       "Farmstead Poultry",
