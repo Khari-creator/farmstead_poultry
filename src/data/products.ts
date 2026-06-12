@@ -133,6 +133,26 @@ export const products: Product[] = [
     featured: true,
   },
   {
+    id: "suguna-feeds",
+    name: "Broiler-Starter-Crumble",
+    slug: "suguna-feeds",
+    category: "Poultry Feeds",
+    shortDescription:
+      "High-quality starter feed for broiler chicks.",
+    description:
+      "Broiler-starter-crumble is a high-quality feed designed to support the early growth and development of broiler chicks, helping them reach their full potential during the critical starter phase.",
+    image: "/images/products/broiler-starter.jpg",
+    priceLabel: "Contact for current price",
+    availability: "Available in Muhoroni",
+    benefits: [
+      "Supports early broiler growth",
+      "Good for starter stage",
+      "Helps develop strong birds",
+    ],
+    suitableFor: ["Broilers", "Meat bird farmers", "Starter-stage poultry"],
+    featured: true,
+  },
+  {
     id: "chick-mash",
     name: "Chick Mash",
     slug: "chick-mash",
@@ -170,6 +190,7 @@ export const products: Product[] = [
       "Suitable for growing poultry",
     ],
     suitableFor: ["Grower birds", "SASSO F1 growers", "Layer growers"],
+    featured: true,
   },
   {
     id: "layers-mash",
